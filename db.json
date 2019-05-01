@@ -1,0 +1,11 @@
+{
+  "resultado":{
+    "data":{
+    "userId":2
+		"userName":"karen@gmail.com",
+		"password":null,
+		"active":1
+    },
+    "codeHttpStatus" : 200
+  }
+}

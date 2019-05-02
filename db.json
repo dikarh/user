@@ -1,7 +1,7 @@
 {
   "resultado":{
     "data":{
-    "userId":2
+    "userId":2,
 		"userName":"karen@gmail.com",
 		"password":null,
 		"active":1
